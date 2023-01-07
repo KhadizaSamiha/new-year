@@ -101,3 +101,52 @@
     background-color: aqua;
     text-align: center;
 }
+
+
+
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    height: 400px;
+    background-color: black;
+}
+.first-area h1, p{
+    color:white;
+    padding-bottom: 20px;
+
+}
+.first-area{
+padding-left: 150px;
+padding-top: 80px;
+font-weight: 400;
+}
+.first-area-img{
+    padding-right: 10px;
+}
+.second-area{
+    color: white;
+    padding-top: 80px;
+    padding-right: 300px;
+    
+}
+.second-area input{
+    background-color: black;
+    border-radius: 8px;
+    height: 30px;
+    width: 200px;
+    padding: 13px 20px 8px 8px;
+    border-color: aliceblue;
+    margin: 20px 10px 0px 0px;
+}
+.second-btn{
+    height: 50px;
+    width: 160px;
+    margin: 10px 0px;
+    border-radius:8px;
+    color: orangered;
+    font-weight: 600;
+} 
+.second-area h1{
+    font-size: 25px;
+}
