@@ -37,6 +37,9 @@
 
 
 
+
+
+
 .main1{
     display: flex;
 }
@@ -65,6 +68,9 @@
 .img1-part{
     padding-left: 180px;
 }
+
+
+
 
 
 
@@ -124,6 +130,9 @@ font-weight: 400;
 .first-area-img{
     padding-right: 10px;
 }
+
+
+
 .second-area{
     color: white;
     padding-top: 80px;
