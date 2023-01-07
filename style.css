@@ -75,10 +75,6 @@
 
 
 
-.main2{
-    height: 250px;
-}
-
 .main2-heading{
     text-align: center;
     font-size: 40px;
@@ -102,10 +98,32 @@
 }
 
 
+
+
+
+.main3 h1 {
+    font-weight: 700;
+    font-size: 40px;
+    color:white;
+}
 .main3{
-    height: 200px;
-    background-color: aqua;
-    text-align: center;
+    width: 1040px;
+    height:180px;
+    margin: 180px 200px;
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url("./images/gradient1.png"), url("./images/watch.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 0px 0px 64px;
+    border-radius: 8px;
+}
+.main3-btn{
+    font-weight: bold;
+    font-size: 18px;
+    padding: 14px 18px;
+    border-radius: 5px;
+    border: none;
+    color: #F15B22;
+    margin: 10px 0px;
 }
 
 
