@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0px 0;
+    font-family: "Gill Sans", sans-serif;
+}
+.head-container{
+    height: 580px;
+    width: 100;
+    background-image: url("./images/banner/banner1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head-container{
+    text-align: right;
+    padding-top: 300px;
+    padding-right: 30px;
+}
+.head-title{
+    font-size: 60px;
+    font-weight: 800;
+}
+.head-description{
+    font-size: 25px;
+    font-weight: 500;
+    color: #757775;
+    padding-right: 5px;
+}
+.btn{
+    background-color:rgb(224, 67, 10);
+    border: 0;
+    color:white;
+    padding: 20px 35px;
+    margin: 25px 9px;
+    border-radius: 5px;
+    font-size: 25px;
+} 
+
+
+
+.main1{
+    display: flex;
+}
+.main1-description{
+    padding-top: 250px;
+    padding-left: 180px;
+
+}
+.main1-heading{
+    font-size: 45px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.main1-p{
+    color: #757775;
+    font-size:20px;
+    margin:24px 0px 10px 0px;
+    padding-left: 4px;
+}
+.main1-para{
+    color: #757575;
+    margin: 8px 0px;
+    padding-left: 20px;
+
+}
+.img1-part{
+    padding-left: 180px;
+}
+
+
+
+
+.main2{
+    height: 250px;
+}
+
+.main2-heading{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 100px;
+}
+.main2-plans-container{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 8px;
+    padding-top: 70px;
+    text-align: center;
+}
+.main2-plans-container h2{
+    font-weight: 800;
+}
+
+.main2-plans-container p{
+    color: #757575;
+    font-weight: 600;
+}
+
+
+.main3{
+    height: 200px;
+    background-color: aqua;
+    text-align: center;
+}
